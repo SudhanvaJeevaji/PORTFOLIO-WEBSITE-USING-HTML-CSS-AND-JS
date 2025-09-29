@@ -5,6 +5,7 @@ The website is built using HTML, CSS, and JavaScript, with a focus on a clean, m
 Key Features:
 
 • About Me Section: Introduces personal background, skills, and experience.
+
 • Projects & Work Showcase: Displays completed projects with descriptions, images, and live/demo links.
 • Skills & Technologies: Highlights technical skills, frameworks, and tools proficiency.
 • Contact & Social Links: Provides easy ways to get in touch or connect via social media and professional platforms.
